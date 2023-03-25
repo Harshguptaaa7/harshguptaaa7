@@ -1,4 +1,4 @@
-![logo](https://github.com/Harshguptaaa7/Harsh-Gupta/blob/main/Banner.jpeg)
+
 
 # Harsh-Gupta
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
